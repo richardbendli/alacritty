@@ -1,1 +1,1 @@
-# AJAX
+# alacritty
